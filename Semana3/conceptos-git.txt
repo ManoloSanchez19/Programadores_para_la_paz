@@ -1,0 +1,6 @@
+Escribe una explicación corta de los siguientes conceptos:
+
+Repositorio: Espacio virtual en la plataforma o nube (En este caso, GitHub) donde se contienen
+las carpetas y archivos de un proyecto, así como su historial de cambios.
+Commit: Comando utilizado para registrar los cambios hechos a un proyecto.
+Push: Comando utilizado para enviar los cambios registrados o commits a la nube externa o GitHub.

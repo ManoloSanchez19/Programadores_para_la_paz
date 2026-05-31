@@ -1,0 +1,35 @@
+Pregunta 1 — Selección múltiple
+¿Qué es Git?
+
+a.Un sistema operativo
+b.Un sistema de control de versiones para registrar cambios en proyectos
+c.Una red social para programadores
+d.Un editor de texto
+Respuesta: b
+
+Pregunta 2 — Selección múltiple
+¿Cuál es la función principal de un repositorio?
+
+a.Guardar imágenes
+b.Registrar y organizar los archivos y cambios de un proyecto
+c.Conectarse a internet
+d.Ejecutar programas
+Respuesta: B
+
+Pregunta 3 — Selección múltiple
+¿Qué hace el comando git add .?
+
+a.Elimina archivos del proyecto
+b.Agrega archivos al área de preparación para registrar cambios
+c. Crea una nueva carpeta
+d. Cierra el repositorio
+Respuesta: B
+
+Pregunta 4 — Selección múltiple
+¿Qué hace el comando git commit?
+
+a.Guarda un registro de cambios realizados en el proyecto
+b.Borra el repositorio
+c.Instala un programa
+d.Abre un archivo
+Respuesta: A

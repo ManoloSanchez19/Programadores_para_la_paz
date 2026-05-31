@@ -1,0 +1,6 @@
+¿Por qué es importante que los proyectos de 
+software mantengan un registro de cambios usando herramientas como Git?
+La herramienta Git funciona como una bitácora que registra los cambios
+hechos a un proyecto de desarrollo de software. Su funcionalidad radica
+en conservar las versiones anteriores en la evolucion del proyecto, 
+permitiéndonos conocer el desarrollo del mismo y brindándonos una visión general de su creación. 
