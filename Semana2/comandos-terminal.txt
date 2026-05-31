@@ -1,0 +1,10 @@
+Escribe los comandos que utilizaste durante esta actividad:
+
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+git add .
+git commit -m ""
+git push
+git status

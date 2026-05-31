@@ -1,0 +1,7 @@
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+Una terminal es para un desarrollador su medio de trabajo. 
+Entender a moverse con destreza, confianza y conocimiento en la plataforma de programación
+garantiza mejores resultados. Aunque el lenguaje de las terminales sea de carácter
+técnico y científico, de modo que no es comprensible para un ciudadano que no se ha familairizado antes
+con el lenguaje informático y la programación, el uso de la plataforma depende de saber conocer los atajos que propicia
+el avance de la tecnología y la facilidad con la que estos nuevos entornos digitales se han inscrito en las necesidades del siglo XXI.
