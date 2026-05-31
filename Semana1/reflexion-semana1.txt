@@ -1,0 +1,11 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana 
+y la organización del trabajo técnico con herramientas como Git?
+
+Tanto el uso responsable de la información en internet como el uso técnico de herramientas informáticas 
+como Git obedecen a la inteligencia lógico-matemática y al pensamiento operacional humano. 
+Ambos procesos exigen seguir una lógica deductiva que permite al sujeto organizar sus acciones
+a partir de principios de causalidad y esquematizar rutas para resolver problemas. Por ejemplo, 
+al encontrar una información dudosa debemos 1. Verificar la validez de su fuente, 2. Validar la veracidad de la información
+3. De ser falsa, reportarla y evitar su difusión o, si es verdadera, proceder como se considere.
+Esta ruta lógica esta determinada por una estructura mental que permite trazar una ruta de condiciones
+en aras de resolver un problema, muy similar al funcionamiento algoritmico y procedimental de herramientas informáticas como Git.

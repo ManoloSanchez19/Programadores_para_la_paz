@@ -1,0 +1,11 @@
+Escribe un algoritmo de mínimo 6 pasos para explicar:
+
+Cómo compartir información confiable en internet.
+
+1. Buscar información. Privilegie fuentes con nombres consolidados o académicos.
+2. Al encontrar información siempre dude de su veracidad. Permite mejorar la calidad de lo que circula en la web. (Dudar)
+3. Revise la calidad de la fuente. Permite distinguir fuentes comprometidas con la verdad con aquellas que no lo son.
+4. Confirme la noticia. Válgase de otras fuentes para dar solidez a los hechos.
+5. De ser falsa, evite su circulación reportando la noticia y haga consciencia sobre su falsedad. 
+De ser verídica, comparta con discreción y haciendo consciencia sobre las noticias falsas.
+6. Haga pedagogía digital instando a otros ciudadanos digitales a ejercer su deber con la verificación de información.
